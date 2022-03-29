@@ -1,0 +1,4 @@
+**/src/threads/Make.vars
+**/src/utils/Pintos.pm
+**/src/utils/pintos
+**/.idea/*
